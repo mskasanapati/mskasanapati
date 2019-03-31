@@ -1,0 +1,1379 @@
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description"
+    content="Government Primary, Middle School academics. Jammu and Kashmir(J&K) state elementary school syllabus and learning outcomes.">
+  <meta name="keywords"
+    content="DSEK, Learning Outcomes, Institutional Plan, MS Manznoo, ZEO Mattan, GMS Manznoo, Govt. Midddle School Manznoo, school website, Arif Manzoor, Hakim Arif">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+    integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <!-- Bootstrap CSS -->
+  <link type='text/css' rel='stylesheet' href='https://d33wubrfki0l68.cloudfront.net/css/3a3c4679297a24f4d12e0a699a9309130ef93527/css/bootstrap.min.css'/>
+  <link rel='stylesheet' href='https://d33wubrfki0l68.cloudfront.net/css/566dc6f19a7e732f89d2a737d289c8f041d4b0e5/css/swiper.min.css'/>
+  <link type='text/css' rel='stylesheet' href='https://d33wubrfki0l68.cloudfront.net/bundles/c3cce06bcee585408d2279aefc2db5bb73f0976c.css'/>
+  
+
+  <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <title>Govt. Middle School Manznoo</title>
+</head>
+
+<body>
+
+  <div id="ann" class="div announcements">
+    <div class="swiper-container">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <a href="/files/application_form.pdf"> <img class="img-fluid" src="https://d33wubrfki0l68.cloudfront.net/8fcae0fa629253cf877ec6c38abdc79d67b84a8e/9bd4b/images/add_open.png" alt="Enroll now">
+          </a>
+        </div>
+        <div class="swiper-slide">
+          <a href="#contact"> <img class="img-fluid" src="https://d33wubrfki0l68.cloudfront.net/2e4bfef5d09cc66866100777b4b432befbce726d/4fbbe/images/invite.jpg" alt="invitation" height="60px"
+              width="245px">
+          </a>
+        </div>
+        <div class="swiper-slide">
+          <a href="#features"> <img class="img-fluid" src="https://d33wubrfki0l68.cloudfront.net/0b02d66fce5ee5c85505dc0052b15134aaa8c6e8/d944e/images/smtkids.jpg" alt="smart kids" height="50px"
+              width="245px">
+          </a>
+        </div>
+
+        <div class="swiper-slide">
+          <a href="#"> <img class="img-fluid" src="https://d33wubrfki0l68.cloudfront.net/a5ee8a352f7d42c8d210fb6ef3bb40b2beda58de/9965b/images/sarva_shiksha_abhiyan.png" alt="smart kids" height="60px"
+              width="245px">
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- HEADER START -->
+  <header id="header">
+
+    <div class="headWrp ">
+      <div class="brand wow bounceInLeft">
+        <img src="https://d33wubrfki0l68.cloudfront.net/4878c7f6830443f270f2c844b42f3bd668aac6b2/f91d5/images/scl_ai_9th.png" alt="School logo" style="height:100px;">
+      </div>
+      <div class="sclName wow fadeInRight"><span>GOVERNMENT</span>
+        <span>MIDDLE SCHOOL</span>
+        <span>MANZNOO</span></div>
+      <div class="togIcon">
+        <span class="togLine" id="xa"></span>
+        <span class="togLine" id="xb"></span>
+        <span class="togLine" id="xc"></span>
+      </div>
+    </div>
+
+    <nav class="mnu">
+      <ul class="navUl">
+        <li class="n-item">
+          <a data-netlify-identity-button class="n-link" href=""><span></span></a>
+        </li>
+        <li class="n-item">
+          <a class='n-link' href='/'><span>Home</span></a>
+        </li>
+        <li class="n-item">
+          <a class="n-link" href="#features"><span>Features</span></a>
+        </li>
+        <li class="n-item">
+          <a class="n-link" href="#Academics"><span>Academics</span></a>
+        </li>
+        <li class="n-item"><a href="#Team"><span>Team</span></a></li>
+        <li class="n-item"><a href='/pages/calndr' target='_blank'><span>School Calander</span></a></li>
+        <li class="n-item"><a href='/pages/inst_plan' target='_blank'><span>Institutional Plan</span></a></li>
+        <li class=" n-item">
+          <a class="n-link" href="#About"><span>About</span></a>
+        </li>
+        <li class="n-item">
+          <a class="n-link" href="#contact"><span>Contact</span></a>
+        </li>
+      </ul>
+      </div>
+    </nav>
+
+  </header>
+  <!-- HEADER END -->
+  <main id="main">
+
+
+    <!-- SCHOOL GALLARY START -->
+
+    <section class="sec" id="galry">
+      <!-- <div class="secHeadWrp glryWrp">
+        <h2 class="hdng glryr display-3">Gallary</h2>
+        <p class="dis glryDis lead">Awsome moments captured by Us
+        </p>
+      </div> -->
+      <div class="swiper-container">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <p class="swiper-text animated slideInRight">Smart KG students busy with their daily schedule.</p>
+          </div>
+          <div class="swiper-slide">
+            <p class="swiper-text">Happy kids during games period.</p>
+          </div>
+          <div class="swiper-slide">
+            <p class="swiper-text">Rainbow over the School Buildings</p>
+          </div>
+          <div class="swiper-slide">
+            <p class="swiper-text animated slideInRight">Group Photo of students during tracking session.</p>
+          </div>
+          <div class="swiper-slide">
+            <p class="swiper-text">Cleaness Drive</p>
+          </div>
+          <div class="swiper-slide">
+            <p class="swiper-text animated slideInRight">Dring Excursion at Beetab Valley Pahalgham</p>
+          </div>
+          <div class="swiper-slide">
+            <p class="swiper-text">Primary Students busy in their Art Class.</p>
+          </div>
+          <div class="swiper-slide">
+            <p class="swiper-text">Second Position at district level Inspire Awards 2018.</p>
+          </div>
+          <div class="swiper-slide">
+            <p class="swiper-text animated slideInRight">Back-view of the School Primises.</p>
+          </div>
+          <div class="swiper-slide">
+            <p class="swiper-text">Excursion at Bataab Valley Phalgham</p>
+          </div>
+          <div class="swiper-slide">
+            <p class="swiper-text">Happy Moments of students at Bataab Valley Phalgham</p>
+          </div>
+
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination swiper-pagination-white"></div>
+        <!-- Add Arrows -->
+        <div class="swiper-button-next swiper-button-white"></div>
+        <div class="swiper-button-prev swiper-button-white"></div>
+      </div>
+    </section>
+
+    <!-- SCHOOL GALLARY END -->
+
+    <section class="sec" id="hero">
+      <div class="secHeadWrp">
+        <h2 class="hdng display-3 wow zoomIn">Welcome</h2>
+        <p class="dis lead wow bounceInUP">We appritiate your visiting here!
+        </p>
+      </div>
+
+      <div class="hmMsg">
+        <div class="msg">
+          <P class="wlCmNote lead">Dear Students and Parents/Guardians , I believe that children's lives change when
+            their natural passion for
+            learning is
+            nurtured and transformed into habits of life-long learning and reflection. I believe that the world changes
+            as these children learn to serve country and community with wisdom, conviction <span class="extraP1"> , and
+              compassion. We consider
+              it a privilege to work with your kids every day to help them be their very best selves...</span><button
+              id="hmM" class="btn btn-outline-info badge badge-pill" data-toggle="modal" data-target="#hmMod">
+              read more
+            </button> <span class="extraP"> We believe that each
+              and every student has a gift to share with the world, and we work hard to unlock their highest potential.
+              We
+              have high expectations of our students, and we have high expectations of ourselves to help all MSM
+              students
+              learn and grow into well-rounded citizens and critical thinkers. MSM aims to develop leadership skills,
+              social and emotional skills, and academic skills to prepare students for success not only in middle school
+              but also in high school, career, relationships, and life-long learning.</span></P>
+        </div>
+        <div class="hmImg animated wow fadeInLeft" data-wow-delay=".7s">
+          <img src="https://d33wubrfki0l68.cloudfront.net/b5c6874bbf12cb5cc0f6a47d1c2964c2211f7174/ecc17/images/female.jpg" class="img-thumbnail rounded img-fluid" alt="Teacher Image" width="115px"
+            height="115px">
+          <h3 class="hmName display-4"><span class="IName">Firdous</span> Akhter</h3>
+          <p class="hmDiscrp lead">Worthy Headmaster of <br> the Institution.<br></p>
+          <div class="hmIcns">
+            <a href="tel:+917006681293"><i class="fas fa-phone"></i></a>
+
+            <a href="mailto:msmanznoo333@gmail.com"><i class="far fa-envelope"></i></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="hmMod" tabindex="-1" role="dialog" aria-labelledby="hmModTitle" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="hmModTitle">Read More</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              <p>We believe that each
+                and every student has a gift to share with the world, and we work hard to unlock their highest
+                potential. We
+                have high expectations of our students, and we have high expectations of ourselves to help all MSM
+                students
+                learn and grow into well-rounded citizens and critical thinkers. MSM aims to develop leadership skills,
+                social and emotional skills, and academic skills to prepare students for success not only in middle
+                school
+                but also in high school, career, relationships, and life-long learning. <br> To help your student be
+                successful in middle school, help them understand what is required of them to be a good learner inside
+                and outside of the classroom. Talk about qualities and learning behaviors such as: taking positive
+                risks, viewing errors as opportunities, working to recover from a mistake, giving and receiving
+                feedback, asking questions, collaborating with peers, setting goals, planning with a purpose, and
+                tracking their own progress. Students need both high challenge and high support to grow as learners, and
+                we look forward to helping students maximize their growth at MSM.
+
+                Please continue to visit our website for updates throughout the year. If you have questions or concerns,
+                please do not hesitate to contact us. </p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- ACCORDIAN -->
+    </section>
+    <section class="sec" id="features">
+      <div class="secHeadWrp ftrWrp">
+        <h2 class="hdng ftr display-3 wow zoomIn">Features</h2>
+        <p class="dis ftrDis lead wow bounceInUp">Silent Features of the Institution
+        </p>
+      </div>
+
+      <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="panel panel-default">
+          <div class="panel-heading wow fadeInUp" data-wow-delay=".3s" role="tab" id="headingOne">
+            <h4 class="panel-title">
+              <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
+                aria-expanded="true" aria-controls="collapseOne">
+                Smartkids KG Classroom
+              </a>
+            </h4>
+          </div>
+          <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+            <div class="panel-body">
+              <p>We posess a fully functional SmartKids KG classroom operated by active, skillful
+                and spacially tranined female teachers for all-round development of your loved ones. This will help
+                your
+                children adjust to school life and develop a strong
+                base for learning. Importantly, this also helps meet parental aspirations of seeing their children
+                enroll
+                in a
+                good pre-school around age 3 or 4. SmartKids
+                kinder-garten is a recent initiative raised by J&K Govt to facilate
+                physical
+                Infrastructure and child friendly learning Environment to support holistic development of childern in
+                the
+                age group of 0-8 years, the purpose is served as per the satandards laid down in Early Childhood Care
+                and Education (ECCE) programme. </p>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading wow fadeInUp" data-wow-delay=".5s" role="tab" id="headingTwo">
+            <h4 class="panel-title">
+              <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
+                aria-expanded="false" aria-controls="collapseTwo">
+                Free Books and Uniform
+              </a>
+            </h4>
+          </div>
+          <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+            <div class="panel-body">
+              <p>We provide Free Text-books for all classes from 1st to 8th published by Jammu and
+                Kashmir State Board of School Education. The textbooks are prepared by Academic and Curriculum Experts
+                of
+                J&K Bose, to bring at par the academic standard in light of the guidlines laid down under National
+                Curriculum Framework-2005. In addition each student gets two pairs of free uniforms every year to
+                maintain
+                the uniformity and decipline in the school and to encourage those parents who are not in a position to
+                facilate their childern with the same. </p>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading wow fadeInUp" data-wow-delay=".7s" role="tab" id="headingThree">
+            <h4 class="panel-title">
+              <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
+                aria-expanded="false" aria-controls="collapseThree">
+                Mid Day Meals
+              </a>
+            </h4>
+          </div>
+          <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+            <div class="panel-body">
+              <p>Mid-day meal (MDM) is a wholesome freshly-cooked lunch served to children of our School
+                on all working days. Its aim to provide nutritious and delicious food for the children and also is
+                viewed
+                as an opportunity to inculcate hygiene and sanitation practices among children. The menu is designed
+                and
+                implemented after taking into consideration various factors, including regional palate, taste, and
+                flavours. Menu diversity is achieved by using a wide variety of seasonal vegetables and locally
+                available
+                ingredients. We have adopted a cyclic approach with preference to local palate.Our menu planning
+                incorporates a range of flavours with a variety of spices, condiments, vegetables, and staple groups.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading wow fadeInUp" data-wow-delay=".9s" role="tab" id="headingFour">
+            <h4 class="panel-title">
+              <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
+                aria-expanded="false" aria-controls="collapseFour">
+                Scolarships and Awards
+              </a>
+            </h4>
+          </div>
+          <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+            <div class="panel-body">
+              <p>Students here are encouraged by a number of scholarships and awards introduced by
+                Central Government, State Government and in Particular Social Welfare Department of Jammu and Kashmir.
+                The
+                key objective behind every scholarship is to provide suitable financial assistance to meritorious and
+                underserved students of the state to enable them to pursue their studies without any financial
+                constraint.
+                Scholarship scheme for specially-abled students are also provided to assist and encourage these
+                students.
+                Government also provides scolarships espacially to girl students through various schemes and
+                programmes. </p>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading wow fadeInUp" data-wow-delay="1.1s" role="tab" id="headingFive">
+            <h4 class="panel-title">
+              <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"
+                aria-expanded="false" aria-controls="collapseFive">
+                Health Check-Ups
+              </a>
+            </h4>
+          </div>
+          <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+            <div class="panel-body">
+              <p>Health checkup of all students is a part of the academic calender of the Institution.
+                According to the academic calendar, school takes necessary measures to cunduct health checkup of the
+                students with the help of local primary health centers under the supervision of the Block Medical
+                Officer
+                and referral cases are sent to nearby area hospitals and other government medical centers when ever
+                necessary. Every student is provided with a health card which is printed under cumulative records and
+                filled up and maintained properly. The health check of every child twice in a year is a must. </p>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading wow fadeInUp" data-wow-delay="1.3s" role="tab" id="headingSix">
+            <h4 class="panel-title">
+              <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
+                aria-expanded="false" aria-controls="collapseSix">
+                Library & Science Lab
+              </a>
+            </h4>
+          </div>
+          <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+            <div class="panel-body">
+              <p>The serene ambience inspires a love for reading. Information at the click of a finger
+                tip invites the young users to delve into the magical world of words and the wealth of research
+                material
+                available. The school has a well maintained diverse collection of books in the Library for all types of
+                reading. Interaction with eminent authors, book reviews and reading sessions are conducted regularly
+                exposing students to good written and reading material. <br>
+                A scientific temperament is nurtured through fully equipped laboratory for Physics, Chemistry and
+                Biology
+                experiments in the presence of highly qualified Science teachers. Students are encouraged to use the
+                facilities for enhancing their innovative and scientific skills. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section>
+    <section class="sec" id="Academics">
+      <div class="secHeadWrp ftrWrp">
+        <h2 class="hdng ftr display-3 wow zoomIn">Academics</h2>
+        <p class="dis ftrDis lead wow bounceInUp">Curriculum Overview and Syllabus
+        </p>
+      </div>
+      <div class="card text-center border-success m-auto wow pulse" style="width: 90vw">
+        <div class="card-header">
+          <h2>Pre-Primary</h2>
+        </div>
+        <!-- <img src="/images/soft_toy.jpg" class="card-img-top" alt="..."> -->
+        <div class="card-body">
+          <h5 class="card-title">Overview</h5>
+          <h6 class="card-subtitle mb-2 text-muted"></h6>
+          <p class="card-text"> During years (ages 3 to 8), children’s brain development and
+            their ability to absorb and learn from their environment, in the areas of language and cognitive
+            development are at their peak. If the teacher is able to offer
+            developmentally appropriate learning opportunities during these years, children are able to build strong
+            and long lasting neural connections...<button class="btn btn-outline-info badge badge-pill"
+              data-toggle="modal" data-target="#pPry">
+              read more
+            </button>
+
+            <hr>
+            <!-- Modal -->
+            <div class="modal fade" id="pPry" tabindex="-1" role="dialog" aria-labelledby="pPryTitle"
+              aria-hidden="true">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title" id="pPryTitle">Overview of Pre-Primary Stage)</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="modal-body">
+                    creating an
+                    academic foundation that lasts them a lifetime. Children who receive the right inputs in the early
+                    grades are much more likely to succeed in later years of
+                    school, increasing chances of school completion and decreasing the chance of drop out. Our School
+                    applies a Thematic approach largely based on the National Curriculum Framework (NCF, 2005), view on
+                    teaching environment science in the early grades. At
+                    this stage a child should be provided with opportunities for close interaction with and exploration
+                    of her/his natural as well as social environment. Sample lesson plans and thematic concept
+                    maps provided for the pre-primary section, are adapted for children in pre-primary grades. The
+                    levels of the activities and the thematic conversations are kept
+                    at a higher level, and balanced with the grade specific objectives. Wherever possible, they are
+                    linked to lessons in the prescribed text books e.g.
+                    if there is a story on animals, or a poem on seasons, they can be linked with the theme. </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </p>
+
+          <a href="/files/pre-primarymanual.pdf" target="_blank" class="card-link">Teaching strategies and Syllabus</a>
+
+        </div>
+      </div>
+      <div class="card text-center border-success m-auto wow pulse" style="width: 90vw">
+        <div class="card-header">
+          <h2>Primary</h2>
+        </div>
+        <!-- <img src="/images/soft_toy.jpg" class="card-img-top" alt="..."> -->
+        <div class="card-body">
+          <h5 class="card-title">Curriculum</h5>
+          <h6 class="card-subtitle mb-2 text-muted">Overview</h6>
+          <p class="card-text">The aims of the curriculum at primary stage are to ensure that all children are provided
+            with learning opportunities that recognise and celebrate their uniqueness, develop their full potential.
+            The focus is on the child as learner, and the use of a variety of teaching methodologies is an essential
+            feature of the curriculum...
+
+            <button class="btn btn-outline-info badge badge-pill" data-toggle="modal" data-target="#pry">
+              read more
+            </button>
+
+            <hr>
+
+            <!-- Modal -->
+            <div class="modal fade" id="pry" tabindex="-1" role="dialog" aria-labelledby="pryTitle" aria-hidden="true">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title m-auto" id="pryTitle"> Curriculum Overview (Primary Stage)</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="modal-body">
+                    Our Primary School is made up of five 'Key Stages':<br>
+
+                    Key Stage One <br>
+                    - Year 2 (5 to 6 years old students).<br>
+
+                    Key Stage Two <br>
+                    - Year 3 (6 to 7 years old students).<br>
+
+                    Key Stage Three <br>
+                    - Year 4 (7 to 8 years old students)<br>
+
+                    Key Stage Four <br>
+                    - Year 5 (8 to 9 years old students).<br>
+
+                    Key Stage Five <br>
+                    - Year 6 (9 to 10 years old students).<br>
+                    <hr>
+
+                    <i>Learning goals for primary school students</i><br>
+                    <hr>
+
+                    Our curriculum promotes four aspects of achievement:<br>
+
+                    The ability to express oneself in oral and written form and, where appropriate, to remember facts
+                    accurately and use them constructively.
+                    The ability to apply knowledge through practical tasks, problem solving, investigation skills, and
+                    the use of oral and written language.
+                    The development of personal and social skills, such as the ability to work with others and take on
+                    a leadership role within a group.
+                    The development of confidence that comes through self-discipline and the commitment to learn and
+                    persevere even when tasks seem difficult.
+                    Our major subjects and areas of learning are as follows:<br>
+                    <ol>
+                      <li>English</li>
+                      <li>Urdu</li>
+                      <li>Kashmiri</li>
+                      <li>Mathematics</li>
+                      <li>EVS (Gen Sc, Environmental Studies, Social Studies)</li>
+                      <li>PE (Physical Education)</li>
+                      <li>Personal, Social and Health Education</li>
+                      <li>Art</li>
+                    </ol>
+                    <hr>
+                    In addition the curriculum emphasises the need for greater attention to be paid to students with
+                    special educational needs and emphasises the importance of achieving functional literacy and
+                    numeracy. It also draws attention to the needs of gifted children.
+
+                    Our books are prepared by great Exeperts of J & K State board and School Education under the
+                    guidlines of National Curriculum Framework-2005.
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </p>
+          <a href="/files/1-5Syllabus2018.pdf" target="_blank" class="card-link">view syllabus</a>
+          <a href="#" target="_blank" class="card-link cE" data-toggle="modal" data-target=".expLinksPry">curricular
+            expectations</a>
+
+          <div class="modal fade expLinksPry" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog modal-sm">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title m-auto" id="expLinksPry"> Subject Wise Download Links</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <ul>
+                  <li><a href="/files/LO_Eng_Pry.pdf" target="_blank">English</a></li>
+                  <li><a href="/files/LO_math_pry.pdf" target="_blank">Mathematics</a></li>
+                  <li><a href="/files/LO_urdu_pry.pdf" target="_blank">Urdu</a></li>
+                  <li><a href="/files/LO_Evs_Pry.pdf" target="_blank">Evs</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card text-center border-success m-auto wow pulse" style="width: 90vw">
+        <div class="card-header">
+          <h2>Upper-Primary</h2>
+        </div>
+        <!-- <img src="/images/soft_toy.jpg" class="card-img-top" alt="..."> -->
+        <div class="card-body">
+          <h5 class="card-title">Curriculum</h5>
+          <h6 class="card-subtitle mb-2 text-muted">Overview</h6>
+          <p class="card-text">Upper Primary is an integral part of a student’s learning, where we ensure progression
+            in the development of essential life skills. Students are encouraged to learn through a sense of enquiry
+            and develop a keen desire to know. The school aims to provide a happy, nurturing environment where each
+            child is treated as an individual. With our strong well-defined curriculum, students grow into being
+            well-rounded, happy and responsible people...<button class="btn btn-outline-info badge badge-pill"
+              data-toggle="modal" data-target="#uPry">
+              read more
+            </button>
+
+            <hr>
+
+            <!-- Modal -->
+            <div class="modal fade" id="uPry" tabindex="-1" role="dialog" aria-labelledby="uPryTitle"
+              aria-hidden="true">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title m-auto" id="uPryTitle"> Curriculum Overview (Upper-Primary Stage)</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="modal-body">
+                    At Upper Primary, a wide range of learning strategies are used to make learning effective for the
+                    different learning styles of the students. Both the assessment strategies and learning strategies
+                    are planned to help develop independent reflective learners. Differentiated learning ensures there
+                    is no ceiling set to learning.
+                    <hr>
+
+                    The focus here is to provide continuity and progression in learning for all students.
+
+                    The curriculum at Upper Primary includes: <br>
+                    <ol>
+                      <li>English</li>
+                      <li>Urdu</li>
+                      <li>Kashmiri</li>
+                      <li>Mathematics</li>
+                      <li>General Science</li>
+                      <li>History</li>
+                      <li>Civics</li>
+                      <li>Geography</li>
+                      <li>PE (Physical Education)</li>
+                      <li>Personal, Social and Health Education</li>
+                      <li>Art</li>
+                    </ol> <br>
+
+
+                    English Language and Numeracy are vital and we combine these with a rich and exciting curriculum
+                    through cross-curricular links established through the areas of Humanities (History and Geography),
+                    Science, PSHE and Art. The skills of independent learning and co-operation with others are
+                    developed along with attitudes and values.
+
+                    Homework is given to reinforce and extend the work done in the class. It also helps students to
+                    work independently and learn time-management. In addition to this, students are expected to read
+                    from a wide range of books available to them in the reading cupboard and the library.
+
+                    The progress of each student is monitored through observations, work samples, photographs and
+                    Parent-Teacher conferences. Student's achievement of the goals is individualised. We believe that
+                    each child develops at his/her own pace and we give students the time to evolve and feel ready for
+                    activities at each stage of the curriculum.
+
+                    Partnership with parents is a powerful tool to encourage student developments and we ensure parents
+                    are kept well informed of their children’s academic and social well being through Parent-Teacher
+                    Conferences, school diaries and phone calls. Parents are welcome to make appointments for informal
+                    conferences whenever necessary throughout the year.
+
+                    Our books are prepared by great Exeperts of J & K State board and School Education under the
+                    guidlines of National Curriculum Framework-2005.
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </p>
+          <a href="/files/6-9Syllabus2018.pdf" target="_blank" class="card-link">view syllabus</a>
+          <a href="#" target="_blank" class="card-link cE" data-toggle="modal" data-target=".expLinksuPry">curricular
+            expectations</a>
+
+          <div class="modal fade expLinksuPry" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog modal-sm">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title m-auto" id="expLinksuPry"> Subject Wise Download Links</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <ul>
+                  <li><a href="/files/LO_Eng_uPry.pdf" target="_blank">English</a></li>
+                  <li><a href="/files/LO_math_upry.pdf" target="_blank">Mathematics</a></li>
+                  <li><a href="/files/LO_urdu_uPry.pdf" target="_blank">Urdu</a></li>
+                  <li><a href="/files/LO_Sc_uPry.pdf" target="_blank">Science</a></li>
+                  <li><a href="/files/LO_sst_uPry.pdf" target="_blank">S.st</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      </div>
+      </div>
+
+      </div>
+    </section>
+    <!-- Team Slider Start -->
+    <section class="sec" id="Team">
+      <div class="secHeadWrp ftrWrp">
+        <h2 class="hdng ftr display-3 wow zoomIn">Team</h2>
+        <p class="dis ftrDis lead bounceInUp">Staff details of the Institution
+        </p>
+      </div>
+      <div class="swiper-container">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="our-team">
+              <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/6c2bcb295b8a9f39df2b05b041ae19cc0495add0/a1fc0/images/nazirsir.jpg" alt=""></div>
+              <h3 class="title">Nazir Ah Pala</h3>
+              <span class="post">Teacher</span>
+              <div class="text">
+                <p><i class="far fa-address-card"></i>Akura, Mattan, Anantnag</p>
+                <p><i class="fas fa-user-graduate"></i> MA, Bed</p>
+              </div>
+              <ul class="icon">
+                <li><a href="tel:+919797014120"><i class="fas fa-phone"></i></a></li>
+                <li><a
+                    href="intent://send/09797014120#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end"><i
+                      class="fab fa-whatsapp"></i></a></li>
+                <li><a href="#"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li><a href="mailto:---"><i class="far fa-envelope"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="our-team">
+              <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/cb71f1e2344167534c322be392dce22380c5f273/917de/images/rafiqsir.jpg" alt=""></div>
+              <h3 class="title">Mohammad Rafiq</h3>
+              <span class="post">Teacher</span>
+              <div class="text">
+                <p><i class="far fa-address-card"></i>Nanil, Anantnag</p>
+                <p><i class="fas fa-user-graduate"></i> MA(Bio-tech), Bed</p>
+              </div>
+              <ul class="icon">
+                <li><a href="tel:+917006970833"><i class="fas fa-phone"></i></a></li>
+                <li><a
+                    href="intent://send/07006970833#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end"><i
+                      class="fab fa-whatsapp"></i></a></li>
+                <li><a href="https://www.facebook.com/raffeq.mir"><i class="fab fa-facebook-f"></i></a></li>
+                <li><a href="mailto:raffeqmir@gmail.com"><i class="far fa-envelope"></i></a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="our-team">
+              <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/2b9702d54d40b88f57bc231a47f679643523a0ba/ea639/images/bhatsir.jpg" alt=""></div>
+              <h3 class="title">Gh Mohammad Bhat</h3>
+              <span class="post">Teacher</span>
+              <div class="text">
+                <p><i class="far fa-address-card"></i>Mattan, Anantnag</p>
+                <p><i class="fas fa-user-graduate"></i> BA</p>
+              </div>
+              <ul class="icon">
+                <li><a href="tel:+917006147495"><i class="fas fa-phone"></i></a></li>
+                <li><a
+                    href="intent://send/07006147495#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end"><i
+                      class="fab fa-whatsapp"></i></a></li>
+                <li><a href="#"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li><a href="#"><i class="far fa-envelope"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="our-team">
+              <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/18905aff5ccd2fa28a8344d1811bb0befd810d04/f6f49/images/dimplemam.jpg" alt=""></div>
+              <h3 class="title">Dimple Koul</h3>
+              <span class="post">Teacher</span>
+              <div class="text">
+                <p><i class="far fa-address-card"></i>Mattan, Anantnag</p>
+                <p><i class="fas fa-user-graduate"></i>MA, Bed</p>
+              </div>
+              <ul class="icon">
+                <li><a href="tel:+917006681293"><i class="fas fa-phone"></i></a></li>
+                <li><a
+                    href="intent://send/07006681293#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end"><i
+                      class="fab fa-whatsapp"></i></a></li>
+                <li><a href="#"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li><a href="mailto:---"><i class="far fa-envelope"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="our-team">
+              <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/adbe0376b887ed11321960f8547565b4c02d143c/ad21d/images/sameena.jpg" alt=""></div>
+              <h3 class="title">Sameena Akhter</h3>
+              <span class="post">Teacher</span>
+              <div class="text">
+                <p><i class="far fa-address-card"></i>Mattan, Anantnag</p>
+                <p><i class="fas fa-user-graduate"></i> BA(Maths & CA), Bed</p>
+              </div>
+              <ul class="icon">
+                <li><a href="tel:+917006681293"><i class="fas fa-phone"></i></a></li>
+                <li><a
+                    href="intent://send/07006681293#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end"><i
+                      class="fab fa-whatsapp"></i></a></li>
+                <li><a href=#><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li><a href="mailto:---"><i class="far fa-envelope"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="our-team">
+              <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/798f1b12040f4ec3e50e4672947ace316e063c21/e3db6/images/aarif.jpg" alt=""></div>
+              <h3 class="title">Aarif Hakim</h3>
+              <span class="post">Teacher</span>
+              <div class="text">
+                <p><i class="far fa-address-card"></i>Manznoo, Mattan, Anantnag</p>
+                <p><i class="fas fa-user-graduate"></i> BA(Maths & CA), Bed</p>
+              </div>
+              <ul class="icon">
+                <li><a href="tel:+917006681293"><i class="fas fa-phone"></i></a></li>
+                <li><a
+                    href="intent://send/07006681293#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end"><i
+                      class="fab fa-whatsapp"></i></a></li>
+                <li><a href="https://www.facebook.com/hakim.aarif.1?ref=bookmarks"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li><a href="mailto:rarearif333@gmail.com"><i class="far fa-envelope"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="our-team">
+              <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/b5c6874bbf12cb5cc0f6a47d1c2964c2211f7174/ecc17/images/female.jpg" alt=""></div>
+              <h3 class="title">Kanwser Jabeen</h3>
+              <span class="post">Teacher</span>
+              <div class="text">
+                <p><i class="far fa-address-card"></i>Mattan, Anantnag</p>
+                <p><i class="fas fa-user-graduate"></i>MA, Bed</p>
+              </div>
+              <ul class="icon">
+                <li><a href="tel:+917006681293"><i class="fas fa-phone"></i></a></li>
+                <li><a
+                    href="intent://send/07006681293#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end"><i
+                      class="fab fa-whatsapp"></i></a></li>
+                <li><a href="#"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li><a href="mailto:---"><i class="far fa-envelope"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="our-team">
+              <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/b5c6874bbf12cb5cc0f6a47d1c2964c2211f7174/ecc17/images/female.jpg" alt=""></div>
+              <h3 class="title">Yasmeena Gowher</h3>
+              <span class="post">Teacher</span>
+              <div class="text">
+                <p><i class="far fa-address-card"></i>Bijbehara, Anantnag</p>
+                <p><i class="fas fa-user-graduate"></i>MA, Bed</p>
+              </div>
+              <ul class="icon">
+                <li><a href="tel:+917006681293"><i class="fas fa-phone"></i></a></li>
+                <li><a href=""><i class="fab fa-whatsapp"></i></a></li>
+                <li><a href="#"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li><a href="mailto:---"><i class="far fa-envelope"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="our-team">
+              <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/b5c6874bbf12cb5cc0f6a47d1c2964c2211f7174/ecc17/images/female.jpg" alt=""></div>
+              <h3 class="title">Shabnam Ashiq</h3>
+              <span class="post">Teacher</span>
+              <div class="text">
+                <p><i class="far fa-address-card"></i>Sarnal, Anantnag</p>
+                <p><i class="fas fa-user-graduate"></i>MA, Bed</p>
+              </div>
+              <ul class="icon">
+                <li><a href="tel:+917006681293"><i class="fas fa-phone"></i></a></li>
+                <li><a
+                    href="intent://send/07006681293#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end"><i
+                      class="fab fa-whatsapp"></i></a></li>
+                <li><a href="#"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li><a href="mailto:---"><i class="far fa-envelope"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="our-team">
+              <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/b5c6874bbf12cb5cc0f6a47d1c2964c2211f7174/ecc17/images/female.jpg" alt=""></div>
+              <h3 class="title">Minakshi Bhatt</h3>
+              <span class="post">Teacher</span>
+              <div class="text">
+                <p><i class="far fa-address-card"></i>Gulshan-abad, Anantnag</p>
+                <p><i class="fas fa-user-graduate"></i>MA, Bed</p>
+              </div>
+              <ul class="icon">
+                <li><a href="tel:+917006681293"><i class="fas fa-phone"></i></a></li>
+                <li><a
+                    href="intent://send/07006681293#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end"><i
+                      class="fab fa-whatsapp"></i></a></li>
+                <li><a href="#"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li><a href="mailto:---"><i class="far fa-envelope"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="our-team">
+              <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/b5c6874bbf12cb5cc0f6a47d1c2964c2211f7174/ecc17/images/female.jpg" alt=""></div>
+              <h3 class="title">Sheetal Raina</h3>
+              <span class="post">Teacher</span>
+              <div class="text">
+                <p><i class="far fa-address-card"></i>Mattan, Anantnag</p>
+                <p><i class="fas fa-user-graduate"></i>MA, Bed</p>
+              </div>
+              <ul class="icon">
+                <li><a href="tel:+917006681293"><i class="fas fa-phone"></i></a></li>
+                <li><a
+                    href="intent://send/07006681293#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end"><i
+                      class="fab fa-whatsapp"></i></a></li>
+                <li><a href="#"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li><a href="mailto:---"><i class="far fa-envelope"></i></a></li>
+              </ul>
+            </div>
+          </div>
+
+        </div>
+        <div class="swiper-pagination"></div>
+      </div>
+
+    </section>
+    <!-- Team Slider End -->
+
+
+
+
+
+    <!-- ABOUT START -->
+
+    <section class="sec" id="About">
+      <div class="secHeadWrp ftrWrp">
+        <h2 class="hdng ftr display-3 wow zoomIn">About</h2>
+        <p class="dis ftrDis lead wow bounceInUp">If you are Keen enough to know about Us
+        </p>
+      </div>
+
+      <ul class="nav nav-tabs" id="abtTab" role="tablist">
+        <li class="nav-item">
+          <a class="nav-link active" id="msn-tab" data-toggle="tab" href="#msn" role="tab" aria-controls="msn"
+            aria-selected="true">Vision</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" id="history-tab" data-toggle="tab" href="#history" role="tab" aria-controls="history"
+            aria-selected="false">History</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" id="info-tab" data-toggle="tab" href="#info" role="tab" aria-controls="info"
+            aria-selected="false">Info</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" id="location-tab" data-toggle="tab" href="#location" role="tab" aria-controls="location"
+            aria-selected="false">Directions</a>
+        </li>
+      </ul>
+      <div class="tab-content" id="abtContent">
+        <div class="tab-pane fade show active" id="msn" role="tabpanel" aria-labelledby="msn-tab">
+          <img src="https://d33wubrfki0l68.cloudfront.net/7dd218a24ca516da464db07292bda7adefeaaf64/4c408/images/vision.jpg" alt="school vision" class="img-fluid">
+          <p class="tab-pane-txt">Govt. Middle School Manznoo is committed to empowering all students to be inquirers
+            and to meet high academic standards in a nurturing, enriching, supportive environment where individual
+            differences and talents are respected. At MS Manznoo, academic excellence is promoted and lifelong learning
+            is strongly encouraged. Critical, creative, and higher level thinking skills are developed, while
+            connections among all disciplines are provided, and students are empowered to become productive citizens of
+            the global community.</p>
+        </div>
+        <div class="tab-pane fade" id="history" role="tabpanel" aria-labelledby="history-tab">
+          <div class="hstry">
+            <p class="tab-pane-txt"><span class="hPnt">2004</span>It all started in march-2004, when the little buds of
+              this beautiful habitation Manznoo had to travel long distance facing the severe cold to get to a school.
+              During that time Govt. launched an initiative known as EGS (Education Guarantee Scheme) under the banner
+              of SSA (Sarva Shiksha Abhiyaan) to ease the inconvinces faced by parents in order to educate their young
+              ones. All this would not have been possible without a dynamic and enthusiastic youth namely "Mohammad
+              Ashraf Bhat" who took the responsibility as a EV (Education Volunteer) on a meagre monthly remuneration.
+              The sacrifices and efforts of this young man to raise the standards of his people and to make a firm
+              foundation of this institution (at first in his own room where he used to live) are enormous. He
+              gradually managed to enrol all the children of the village in the EGS Centre. </p>
+
+            <p class="tab-pane-txt"><span class="hPnt">2008</span>The great efforts of this young man brought fruits in
+              June-2008 when the EGS centre was converted to a full-fledged Primary School, a three-room building got
+              sanctioned and constructed. Now that He had a strong foundation to exercise his progressive efforts, he
+              reached out to other nearby habitations to invite more students, which resulted in a substantial increase
+              in the enrolment of the school. After upgradation some more talented teachers joined the institute to
+              pave way for more and more success. </p>
+
+            <p class="tab-pane-txt"><span class="hPnt">2010</span>The increasing enrolment of the School left
+              authorities with no option than to issue orders to Upgrade the Institution to Upper-Primary standard
+              in December-2010. One more 3ACR building was added to the beautiful landscape of the Institution and thus
+              more infrastructure and academic equipment’s such as library, science Lab and sports club etc.
+            </p>
+
+            <p class="tab-pane-txt"><span class="hPnt">now</span>Today the school has developed into a excellent
+              learning centre with a lot of infrastructure in place which has played a pivotal role in increasing the
+              enrollment of the institution. Currently under the supervision of the Kind and Generous Head of the
+              Institute Mtr. Firdous Akhter who left no stone unturned to upgrade the academic and infrastructural
+              domains, thus catering the learning needs of end users in a best possible way. In this noble endeavour,
+              the head teacher is unequivocally supported by the staff members. This became the sole reason of Ms
+              Manznoo students bringing laurels to the Institution. </p>
+          </div>
+
+        </div>
+        <div class="tab-pane fade" id="info" role="tabpanel" aria-labelledby="info-tab">
+          <p class="tab-pane-txt">
+            <table class="table table-borderless">
+              <tbody>
+                <tr>
+                  <th scope="row">1</th>
+                  <td>Status:</td>
+                  <td>Upper-Primary</td>
+                </tr>
+                <tr>
+                  <th scope="row">2</th>
+                  <td>No. of Buildings:</td>
+                  <td>4 (Four)</td>
+                </tr>
+                <tr>
+                  <th scope="row">3</th>
+                  <td>No. of Rooms</td>
+                  <td>10 (Ten)</td>
+                </tr>
+                <tr>
+                  <th scope="row">4</th>
+                  <td>Drinking Water Facility</td>
+                  <td>Yes (Tape Water)</td>
+                </tr>
+                <tr>
+                  <th scope="row">5</th>
+                  <td>Science Equipments</td>
+                  <td>Yes</td>
+                </tr>
+                <tr>
+                  <th scope="row">6</th>
+                  <td>No. of Teachers</td>
+                  <td>11 (Eleven)</td>
+                </tr>
+                <tr>
+                  <th scope="row">7</th>
+                  <td>No. of Cooks</td>
+                  <td>02 (Two)</td>
+                </tr>
+                <tr>
+                  <th scope="row">8</th>
+                  <td>Libirary</td>
+                  <td>Yes</td>
+                </tr>
+                <tr>
+                  <th scope="row">9</th>
+                  <td>No. of Books</td>
+                  <td>300+</td>
+                </tr>
+                <tr>
+                  <th scope="row">10</th>
+                  <td>Enrollment</td>
+                  <td>71</td>
+                </tr>
+
+              </tbody>
+            </table>
+          </p>
+        </div>
+        <div class="tab-pane fade" id="location" role="tabpanel" aria-labelledby="location-tab">
+          <p class="tab-pane-txt"><iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3316.4966342148086!2d75.20673961465681!3d33.77367113980713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e20f63c7e92ae1%3A0xa753710986cbc7f3!2sGovernment+Middle+School+Manznoo!5e0!3m2!1sen!2sin!4v1552055161665"
+              width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT END -->
+    <!--CONTACT START-->
+
+    <scction class="sec" id="contact">
+      <div class="secHeadWrp contWrp">
+        <h2 class="hdng cont display-3 wow zoomIn">Contact Us</h2>
+        <p class="dis contDis lead wow bounceInUp">
+          Drop a message, suggestion or complaint.
+        </p>
+      </div>
+      <form class='needs-validation' id='cFrm' novalidate method='post'><input type='hidden' name='form-name' value='cFrm' />
+        <div class="row">
+          <div class="col-lg-6 col-md-6" id="cpad">
+            <div class="input-group input-group-lg wow fadeInUp mb-4" data-wow-delay=".2s">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="sizing-addon1"><i class="fa fa-user" aria-hidden="true"></i>
+                </span>
+              </div>
+              <input name="fullName" type="text" pattern="^[a-zA-Z]{1,15}(\s[a-zA-Z]{1,15}){1,2}$" class="form-control"
+                aria-describedby="sizing-addon1" placeholder="Full Name" required>
+              <div class="valid-tooltip">
+                Looks good!
+              </div>
+              <div class="invalid-feedback">
+                please, enter a valid fullname, First-name followed by Last-name or Sur-name
+              </div>
+            </div>
+            <div class="input-group input-group-lg wow fadeInUp mb-4" data-wow-delay=".4s">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="sizing-addon1"><i class="fa fa-envelope"
+                    aria-hidden="true"></i></span>
+              </div>
+              <input name="eMil" type="email" pattern="^.+@.+$" class="form-control" aria-describedby="sizing-addon1"
+                placeholder="Email Address">
+              <div class="invalid-feedback">
+                Please provide a valid email.
+              </div>
+            </div>
+            <div class="input-group input-group-lg wow fadeInUp mb-5" data-wow-delay=".6s">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="sizing-addon1"><i class="fa fa-phone" aria-hidden="true"></i></span>
+              </div>
+              <input name="phNo" type="tel" pattern="[0-9]{10}" class="form-control" aria-describedby="sizing-addon1"
+                placeholder="Phone Number" required>
+              <div class="valid-tooltip">
+                Looks good!
+              </div>
+              <div class="invalid-feedback">
+                Please provide a 10 digit valid Phone Number.
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6" id="tpad">
+            <div class="input-group wow fadeInUp mb-2" data-wow-delay=".8s" id="txarea">
+              <textarea name="msg" id="" cols="80" rows="6" class="form-control"
+                placeholder="Type your message/suggesstion/complaint here..." required></textarea>
+              <div class="invalid-feedback">
+                This feild can't be empty.
+              </div>
+            </div>
+            <button class="btn btn-block btn-success wow fadeInUp" type="submit" data-wow-delay=".9s">Submit Your
+              Message</button>
+          </div>
+        </div>
+      </form>
+      <hr>
+      <div class="dig">
+        <div class="display-4 digH wow fadeInUp">Reach out to our Dignitaries</div>
+        <div class="swiper-container">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="our-team">
+                <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/4c435f1c13e46e870feebddea52a6dc22920a884/a5a25/images/zeo_mattan.jpg" alt="zeo mattan"></div>
+                <h3 class="title">Mr Abdul Rashid</h3>
+                <span class="post">ZEO MATTAN</span>
+                <ul class="icon">
+                  <li><a href="tel:+919797806662"><i class="fas fa-phone"></i></a></li>
+                  <li><a href="mailto:zeomattan@gmail.com"><i class="far fa-envelope"></i></a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="our-team">
+                <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/e3032beb99e2c93ccc76d912ca01070a57a75d32/197bc/images/zepo_matn.jpg" alt="zepo mattan"></div>
+                <h3 class="title">Mr Mohmad Yousuf</h3>
+                <span class="post">ZEPO MATTAN</span>
+                <ul class="icon">
+                  <li><a href="tel:+917006819166"><i class="fas fa-phone"></i></a></li>
+                  <li><a href="mailto:zeomattan@gmail.com"><i class="far fa-envelope"></i></a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="our-team">
+                <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/219179d8e135852f9fcbacaae84f8c1198440593/b8de6/images/male.jpg" alt="ceo anantang"></div>
+                <h3 class="title">Mr Abdul Rub Shad</h3>
+                <span class="post">CEO Anantnag</span>
+                <ul class="icon">
+                  <li><a href="tel:01932 223 525"><i class="fas fa-phone"></i></a></li>
+                  <li><a href="mailto:ceoang@rediffmail.com
+                    "><i class="far fa-envelope"></i></a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="our-team">
+                <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/3668c5757f6a952b6dc12cb4c54af4e3d636565e/6737d/images/director.jpg" alt="director sek"></div>
+                <h3 class="title">Mr M Younis Malik</h3>
+                <span class="post">Director SEK</span>
+                <ul class="icon">
+                  <li><a href="tel:+919419029635"><i class="fas fa-phone"></i></a></li>
+                  <li><a href="mailto:dse_kash@yahoo.com"><i class="far fa-envelope"></i></a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="our-team">
+                <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/219179d8e135852f9fcbacaae84f8c1198440593/b8de6/images/male.jpg" alt="principal diet"></div>
+                <h3 class="title">Mr Shakti Kumar Kohli</h3>
+                <span class="post">Principal Diet</span>
+                <ul class="icon">
+                  <li><a href="tel:+917006910371"><i class="fas fa-phone"></i></a></li>
+                  <li><a href="mailto:mseanantnag@gmail.com"><i class="far fa-envelope"></i></a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="our-team">
+                <div class="pic"><img src="https://d33wubrfki0l68.cloudfront.net/219179d8e135852f9fcbacaae84f8c1198440593/b8de6/images/male.jpg" alt="principal SIE"></div>
+                <h3 class="title">Mr Mehboob Hussain</h3>
+                <span class="post">Principal SIE</span>
+                <ul class="icon">
+                  <li><a href="tel:+919469110085"><i class="fas fa-phone"></i></a></li>
+                  <li><a href="mailto:siesrinagar@gmail.com"><i class="far fa-envelope"></i></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="display-4 digH wow fadeInUp">Contact our VEC members</div>
+      </div>
+      <div class="vec row">
+        <div class="col">
+          <div class="mem">Firdous Akhter <span class="vdisg text-muted">Chair-Person</span> <a
+              href="tel:+917006681293"><i class="fas fa-phone"></i></a></div>
+          <div class="mem">Peer Manzoor Ah<span class="vdisg text-muted">Respected Person</span> <a
+              href="tel:+919103404219"><i class="fas fa-phone"></i></a></div>
+          <div class="mem">M Ashraf Parray<span class="vdisg text-muted">Auqaf President</span><a
+              href="tel:+919797705654"><i class="fas fa-phone"></i></a></div>
+          <div class="mem">Gh Hassan Hajam<span class="vdisg text-muted">Retd. Employee</span><a
+              href="tel:+919697050372"><i class="fas fa-phone"></i></a></div>
+          <div class="mem">Shahzada Ahkter<span class="vdisg text-muted">AW Worker</span><a href="tel:+917006681293"><i
+                class="fas fa-phone"></i></a></div>
+          <div class="mem">Bilal Ah Hajam<span class="vdisg text-muted">Parent</span><a href="tel:+917889546748"><i
+                class="fas fa-phone"></i></a></div>
+          <div class="mem">Irshad Ah Bhat<span class="vdisg text-muted">Parent</span><a href="tel:+919622782308"><i
+                class="fas fa-phone"></i></a></div>
+          <div class="mem">M Rafiq Shah<span class="vdisg text-muted">Parent</span><a href="tel:+919596067451"><i
+                class="fas fa-phone"></i></a></div>
+          <div class="mem">Waheeda Akhter<span class="vdisg text-muted">Parent</span><a href="tel:+919797898410"><i
+                class="fas fa-phone"></i></a></div>
+          <div class="mem">Nazir Ah Pala<span class="vdisg text-muted">Teacher</span><a href="tel:+919797014120"><i
+                class="fas fa-phone"></i></a></div>
+        </div>
+      </div>
+
+
+    </scction>
+    <!--CONTACT END-->
+  </main>
+
+  <footer id="foot" class="wow slideInUp"><a href="#ann"><span id="topB"><i class="fas fa-arrow-up"></i></span></a>
+
+    <div class="sclCntct">
+      <div class="footLogo"><img src="https://d33wubrfki0l68.cloudfront.net/2cf16b19f00c8bd6648eedb27b30850a424e5ed9/0a44a/images/scl_logo_light.png" alt="School logo" style="height:60px;">
+        <div class="footName">
+          <span class="nam">Government Middle School Manznoo.</span><br>
+          <span class="namDis">Manznoo, Mattan 192125.</span><br>
+          <span class="namDis">Anantnag, Jammu and Kashmir.</span><br>
+          <span class="namDis"><a href="/files/application_form.pdf">Download Application Form</a></span>
+        </div>
+      </div>
+
+      <div class="impLinks">
+        <h4>Important Links</h4>
+        <a href="http://www.dsek.nic.in/not.html" target="_blank">DSEK Srg.</a>
+        <a href="http://www.dietang.in/" target="_blank">DIET Ang.</a>
+        <a href="http://www.pratham.org/" target="_blank">PRATHAM</a>
+        <a href="https://mhrd.gov.in/" target="_blank">MHRD</a>
+        <a href="http://ncert.nic.in/" target="_blank">Ncert</a>
+      </div>
+    </div>
+    <hr>
+    <div class="copy">
+      <p>All content on this website is owned by this Institution</p>
+      <p><span> &COPY;</span> 2019, Headmaster Govt. Middle School Manznoo. All rights reserved.</p>
+    </div>
+    <address class="addrs">
+      <p>Designed and developed by <span>Hakim Arif Manzoor</span>, Tr. on Staff </p>
+      <div>
+        <a href="tel:+917006681293"><i class="fas fa-phone"></i>Call</a>
+        <a href="mailto:rarearif333@gmail.com"><i class="far fa-envelope"></i>Mail</a>
+      </div>
+    </address>
+
+  </footer>
+
+  <!-- Dependencies -->
+  <script type='text/javascript' src='https://d33wubrfki0l68.cloudfront.net/js/1fb06e903e758278c0f8afeb52f021bb3bdf2f3d/js/jquery.min.js'></script> <!-- Jquery -->
+  <script type='text/javascript' src='https://d33wubrfki0l68.cloudfront.net/js/5d394840a21147cd1e9908f5a20bc4d0cda23aae/vendor/bootstrap/js/bootstrap.bundle.min.js'></script>
+  <!-- Swiper JS -->
+  <script src='https://d33wubrfki0l68.cloudfront.net/js/a4b07d4d93aa6b9a93d669f02c2fc36075204546/js/swiper.min.js'></script>
+
+  <script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function () {
+      'use strict';
+      window.addEventListener('load', function () {
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        var forms = document.getElementsByClassName('needs-validation');
+        // Loop over them and prevent submission
+        var validation = Array.prototype.filter.call(forms, function (form) {
+          form.addEventListener('submit', function (event) {
+            if (form.checkValidity() === false) {
+              event.preventDefault();
+              event.stopPropagation();
+            }
+            form.classList.add('was-validated');
+          }, false);
+        });
+      }, false);
+    })();
+  </script>
+
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper1 = new Swiper("#Team .swiper-container", {
+      effect: "slide",
+      grabCursor: true,
+      centeredSlides: true,
+      slidesPerView: "auto",
+
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+        dynamicBullets: true
+      },
+      navigation: {
+        nextEl: '#Team .swiper-button-next',
+        prevEl: '#Team .swiper-button-prev',
+      },
+    });
+
+    swiper1.on('slideChange', function () {
+      var $teamItm = $("#Team .pic");
+      var picAftr = document.querySelectorAll(".pic::after");
+      $teamItm.each((indx, itm) => {
+        $(itm).toggleClass("picScrl");
+      })
+    })
+
+    var swiper2 = new Swiper('#galry .swiper-container', {
+      spaceBetween: 30,
+      effect: 'fade',
+      speed: 300,
+      zoom: true,
+      autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+      },
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '#galry .swiper-button-next',
+        prevEl: '#galry .swiper-button-prev',
+      },
+    });
+
+    var swiper3 = new Swiper("#contact .swiper-container", {
+      effect: 'coverflow',
+      grabCursor: true,
+      centeredSlides: true,
+      slidesPerView: 'auto',
+      coverflowEffect: {
+        rotate: 30,
+        stretch: 0,
+        depth: 80,
+        modifier: 1,
+        slideShadows: true,
+      },
+    });
+
+    var swiper4 = new Swiper("#ann .swiper-container", {
+      effect: 'slide',
+      loop: true,
+      spaceBetween: 20,
+      grabCursor: true,
+      centeredSlides: true,
+      slidesPerView: '2',
+      autoplay: {
+        delay: 1500,
+        disableOnInteraction: false,
+      },
+    });
+  </script>
+  <script type='text/javascript' src='https://d33wubrfki0l68.cloudfront.net/js/e76e8816353cc6fd6d4a1a2820fcf84327f92bd6/dist/js/vendors/wow.min.js'></script>
+  <script>
+    new WOW().init();
+  </script>
+  <!-- <canvas class="bkground"></canvas>
+  <script src="/js/particles.min.js"></script> -->
+  <script type='text/javascript' src='https://d33wubrfki0l68.cloudfront.net/js/e1dbcbb4485508e2a6998ce758762477b00a7c8c/js/main.js'></script>
+</body>
+
+</html>
